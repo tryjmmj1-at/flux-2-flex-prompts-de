@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [flux-2-flex-api-de](https://github.com/tryjmmj1-at/flux-2-flex-api-de)
+- **Same model, other languages** — 9 more language builds: 中文 `flux-2-flex-api-cn` · Español [flux-2-flex-api-es](https://github.com/x2dl2g/flux-2-flex-api-es) · Français [flux-2-flex-api-fr](https://github.com/c3cnu77tfa3g/flux-2-flex-api-fr) · Relay/gateway [flux-2-flex-api-gateway](https://github.com/xgltizzxs9/flux-2-flex-api-gateway) · Bahasa [flux-2-flex-api-id](https://github.com/tvy8j7dlbtq-v/flux-2-flex-api-id) · 日本語 `flux-2-flex-api-ja` · 한국어 [flux-2-flex-api-ko](https://github.com/bsl2e86y9/flux-2-flex-api-ko) · Português `flux-2-flex-api-pt` · Русский [flux-2-flex-api-ru](https://github.com/v501hfo6zxyf4/flux-2-flex-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [flux-2-flex](https://github.com/topics/flux-2-flex) · [flux-2-flex-api](https://github.com/topics/flux-2-flex-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
